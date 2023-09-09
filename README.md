@@ -3,6 +3,6 @@
 - Abrir a IDE
 - Abra o terminal
 
-# Abra a Ide
-pip install behave
-Behave features\consulta_cep\cep.feature
+# Abra a IDE
+- pip install behave
+- Behave features\consulta_cep\cep.feature
